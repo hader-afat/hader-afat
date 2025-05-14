@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Hadeer Effat</h1>
 <h3 align="center">A passionate Softwar Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 - Dedicated Software Engineer with expertise in designing and developing APIs using IBM API Connect and IBM ESB. Skilled in managing Swagger files, databases, and Graylog, with strong knowledge of Node.js and Express framework. Committed to delivering high-quality solutions that enhance system efficiency and user experience.
